@@ -1,0 +1,284 @@
+,incident_id,ori,offense_name,offense_id,location_name,weapon_name,incident_date,offender_race_code,offender_sex_code,offender_age_num,victim_race_code,victim_sex_code,victim_age_num
+0,74178799,TNMPD0000,Murder and Nonnegligent Manslaughter,81860037,Residence/Home,Knife/Cutting Instrument,2014-07-05 00:00:00,B,M,33.0,B,M,21.0
+1,74945542,TNMPD0000,Murder and Nonnegligent Manslaughter,81967920,Parking Lot/Garage,Firearm,2014-09-06 00:00:00,B,M,19.0,B,M,18.0
+2,75115430,TNMPD0000,Murder and Nonnegligent Manslaughter,82226529,Residence/Home,Firearm,2014-12-26 00:00:00,B,M,43.0,B,F,37.0
+3,74061252,TNMPD0000,Murder and Nonnegligent Manslaughter,81725814,Residence/Home,Handgun,2014-04-30 00:00:00,B,M,22.0,B,M,49.0
+4,74061252,TNMPD0000,Murder and Nonnegligent Manslaughter,81725814,Residence/Home,Handgun,2014-04-30 00:00:00,B,M,22.0,B,M,30.0
+5,74042731,TNMPD0000,Murder and Nonnegligent Manslaughter,81714933,Residence/Home,Handgun,2014-04-19 00:00:00,B,M,21.0,B,M,17.0
+6,73907924,TNMPD0000,Murder and Nonnegligent Manslaughter,83692917,Bar/Nightclub,Motor Vehicle,2014-01-18 00:00:00,B,F,29.0,B,F,35.0
+7,73907924,TNMPD0000,Murder and Nonnegligent Manslaughter,83692917,Bar/Nightclub,Motor Vehicle,2014-01-18 00:00:00,B,F,29.0,B,M,38.0
+8,73907924,TNMPD0000,Murder and Nonnegligent Manslaughter,83692917,Bar/Nightclub,Motor Vehicle,2014-01-18 00:00:00,B,F,29.0,B,F,22.0
+9,73907924,TNMPD0000,Murder and Nonnegligent Manslaughter,83692917,Bar/Nightclub,Motor Vehicle,2014-01-18 00:00:00,B,F,29.0,B,F,30.0
+10,73953472,TNMPD0000,Murder and Nonnegligent Manslaughter,81610753,Parking Lot/Garage,Handgun,2014-02-21 00:00:00,B,M,20.0,B,M,16.0
+11,74095167,TNMPD0000,Murder and Nonnegligent Manslaughter,81765119,Residence/Home,Unknown,2014-05-19 00:00:00,B,M,36.0,B,M,1.0
+12,73926464,TNMPD0000,Murder and Nonnegligent Manslaughter,83721024,Highway/Road/Ally,Firearm,2014-01-31 00:00:00,B,M,18.0,B,M,18.0
+13,73926464,TNMPD0000,Murder and Nonnegligent Manslaughter,83721024,Highway/Road/Ally,Firearm,2014-01-31 00:00:00,B,M,18.0,B,M,17.0
+14,73926464,TNMPD0000,Murder and Nonnegligent Manslaughter,83721024,Highway/Road/Ally,Firearm,2014-01-31 00:00:00,B,M,18.0,B,M,21.0
+15,73926464,TNMPD0000,Murder and Nonnegligent Manslaughter,83721024,Highway/Road/Ally,Firearm,2014-01-31 00:00:00,B,M,18.0,B,M,19.0
+16,74105823,TNMPD0000,Murder and Nonnegligent Manslaughter,81773899,Residence/Home,Unknown,2014-05-24 00:00:00,,,,B,M,66.0
+17,75030142,TNMPD0000,Murder and Nonnegligent Manslaughter,82128388,Residence/Home,Other,2014-10-28 00:00:00,B,M,,B,M,38.0
+18,73985318,TNMPD0000,Murder and Nonnegligent Manslaughter,81646242,Residence/Home,Handgun,2014-03-16 00:00:00,W,M,24.0,W,M,33.0
+19,73949105,TNMPD0000,Murder and Nonnegligent Manslaughter,81610362,Residence/Home,Handgun,2014-02-18 00:00:00,B,M,24.0,B,M,20.0
+20,74058576,TNMPD0000,Murder and Nonnegligent Manslaughter,81725746,Field/Woods,Handgun,2014-04-29 00:00:00,U,U,,B,M,23.0
+21,75038706,TNMPD0000,Murder and Nonnegligent Manslaughter,82142078,Residence/Home,Firearm,2014-11-03 00:00:00,B,M,19.0,B,M,19.0
+22,75038706,TNMPD0000,Murder and Nonnegligent Manslaughter,82142078,Residence/Home,Firearm,2014-11-03 00:00:00,B,M,19.0,B,M,23.0
+23,75038706,TNMPD0000,Murder and Nonnegligent Manslaughter,82142078,Residence/Home,Firearm,2014-11-03 00:00:00,B,M,19.0,B,M,27.0
+24,74911034,TNMPD0000,Murder and Nonnegligent Manslaughter,81932094,Highway/Road/Ally,Handgun,2014-08-17 00:00:00,,,,B,M,20.0
+25,74152188,TNMPD0000,Murder and Nonnegligent Manslaughter,81840066,Residence/Home,Shotgun,2014-06-19 00:00:00,B,M,,B,M,18.0
+26,74972531,TNMPD0000,Murder and Nonnegligent Manslaughter,82063266,Residence/Home,Handgun,2014-09-22 00:00:00,B,M,,B,M,35.0
+27,74972531,TNMPD0000,Murder and Nonnegligent Manslaughter,82063266,Residence/Home,Handgun,2014-09-22 00:00:00,B,M,,B,M,27.0
+28,75102908,TNMPD0000,Murder and Nonnegligent Manslaughter,82218218,Residence/Home,Firearm,2014-12-17 00:00:00,B,M,16.0,B,M,32.0
+29,75102908,TNMPD0000,Murder and Nonnegligent Manslaughter,82218218,Residence/Home,Firearm,2014-12-17 00:00:00,B,M,16.0,B,F,24.0
+30,75102908,TNMPD0000,Murder and Nonnegligent Manslaughter,82218218,Residence/Home,Firearm,2014-12-17 00:00:00,B,M,19.0,B,M,32.0
+31,75102908,TNMPD0000,Murder and Nonnegligent Manslaughter,82218218,Residence/Home,Firearm,2014-12-17 00:00:00,B,M,19.0,B,F,24.0
+32,75098387,TNMPD0000,Murder and Nonnegligent Manslaughter,82202909,Residence/Home,Handgun,2014-12-14 00:00:00,W,M,61.0,W,F,60.0
+33,74075330,TNMPD0000,Murder and Nonnegligent Manslaughter,81746751,Residence/Home,Handgun,2014-05-08 00:00:00,U,U,,B,M,64.0
+34,74948976,TNMPD0000,Murder and Nonnegligent Manslaughter,81978275,Convenience Store,Handgun,2014-09-08 00:00:00,B,M,52.0,B,F,33.0
+35,75087828,TNMPD0000,Murder and Nonnegligent Manslaughter,82199604,Residence/Home,Other,2014-12-07 00:00:00,B,M,20.0,B,M,22.0
+36,75087828,TNMPD0000,Murder and Nonnegligent Manslaughter,82199604,Residence/Home,Other,2014-12-07 00:00:00,B,M,20.0,B,M,2.0
+37,75087828,TNMPD0000,Murder and Nonnegligent Manslaughter,82199604,Residence/Home,Other,2014-12-07 00:00:00,B,M,21.0,B,M,22.0
+38,75087828,TNMPD0000,Murder and Nonnegligent Manslaughter,82199604,Residence/Home,Other,2014-12-07 00:00:00,B,M,21.0,B,M,2.0
+39,74087022,TNMPD0000,Murder and Nonnegligent Manslaughter,81755459,Residence/Home,Handgun,2014-05-14 00:00:00,,,,B,M,63.0
+40,74936859,TNMPD0000,Murder and Nonnegligent Manslaughter,81965095,Highway/Road/Ally,Other,2014-08-31 00:00:00,B,M,,W,M,63.0
+41,74936859,TNMPD0000,Murder and Nonnegligent Manslaughter,81965095,Highway/Road/Ally,Other,2014-08-31 00:00:00,B,M,15.0,W,M,63.0
+42,73895219,TNMPD0000,Murder and Nonnegligent Manslaughter,83674222,Residence/Home,Other,2014-01-09 00:00:00,B,F,33.0,B,F,
+43,73891850,TNMPD0000,Murder and Nonnegligent Manslaughter,83677162,Residence/Home,Other,2014-01-06 00:00:00,B,M,,B,M,22.0
+44,73895239,TNMPD0000,Murder and Nonnegligent Manslaughter,83674226,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,29.0
+45,73895239,TNMPD0000,Murder and Nonnegligent Manslaughter,83674226,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,21.0
+46,73895239,TNMPD0000,Murder and Nonnegligent Manslaughter,83674226,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,20.0,B,M,29.0
+47,73895239,TNMPD0000,Murder and Nonnegligent Manslaughter,83674226,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,20.0,B,M,21.0
+48,74015543,TNMPD0000,Murder and Nonnegligent Manslaughter,81680219,Residence/Home,Firearm,2014-04-03 00:00:00,B,M,18.0,B,M,40.0
+49,74181445,TNMPD0000,Murder and Nonnegligent Manslaughter,81860866,Residence/Home,Firearm,2014-07-06 00:00:00,B,M,32.0,B,M,39.0
+50,74181445,TNMPD0000,Murder and Nonnegligent Manslaughter,81860866,Residence/Home,Firearm,2014-07-06 00:00:00,B,M,42.0,B,M,39.0
+51,74181445,TNMPD0000,Murder and Nonnegligent Manslaughter,81860866,Residence/Home,Firearm,2014-07-06 00:00:00,B,F,29.0,B,M,39.0
+52,74210231,TNMPD0000,Murder and Nonnegligent Manslaughter,81887514,Residence/Home,Firearm,2014-07-21 00:00:00,B,M,17.0,B,M,29.0
+53,74258278,TNMPD0000,Murder and Nonnegligent Manslaughter,81932074,Other/Unknown,Handgun,2014-08-16 00:00:00,B,M,,B,M,34.0
+54,73986292,TNMPD0000,Murder and Nonnegligent Manslaughter,81651582,Field/Woods,Handgun,2014-03-17 00:00:00,U,U,,W,M,32.0
+55,73969406,TNMPD0000,Murder and Nonnegligent Manslaughter,81635191,Highway/Road/Ally,Handgun,2014-03-06 00:00:00,,,,B,M,24.0
+56,74044581,TNMPD0000,Murder and Nonnegligent Manslaughter,81708122,Residence/Home,Handgun,2014-04-21 00:00:00,B,M,13.0,B,F,10.0
+57,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,29.0,B,F,
+58,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,29.0,B,F,27.0
+59,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,29.0,B,M,22.0
+60,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,22.0,B,F,
+61,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,22.0,B,F,27.0
+62,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,22.0,B,M,22.0
+63,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,19.0,B,F,
+64,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,19.0,B,F,27.0
+65,73963152,TNMPD0000,Murder and Nonnegligent Manslaughter,81624204,Parking Lot/Garage,Handgun,2014-02-28 00:00:00,B,M,19.0,B,M,22.0
+66,74183383,TNMPD0000,Murder and Nonnegligent Manslaughter,81860925,Field/Woods,Fire/Incendiary Device,2014-07-07 00:00:00,U,U,,B,M,38.0
+67,74098658,TNMPD0000,Murder and Nonnegligent Manslaughter,81771743,Residence/Home,Handgun,2014-05-21 00:00:00,,,,B,M,36.0
+68,74160261,TNMPD0000,Murder and Nonnegligent Manslaughter,81839793,Residence/Home,Personal Weapons,2014-06-24 00:00:00,B,M,28.0,B,M,40.0
+69,74160261,TNMPD0000,Murder and Nonnegligent Manslaughter,81839793,Residence/Home,Personal Weapons,2014-06-24 00:00:00,B,F,50.0,B,M,40.0
+70,74196301,TNMPD0000,Murder and Nonnegligent Manslaughter,81882947,Highway/Road/Ally,Handgun,2014-07-14 00:00:00,U,U,,B,M,24.0
+71,73980037,TNMPD0000,Murder and Nonnegligent Manslaughter,81638626,Highway/Road/Ally,Handgun,2014-03-12 00:00:00,B,M,,B,M,27.0
+72,73995144,TNMPD0000,Murder and Nonnegligent Manslaughter,81659799,Highway/Road/Ally,Handgun,2014-03-21 00:00:00,B,M,21.0,B,M,44.0
+73,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,F,50.0
+74,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,62.0
+75,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,49.0
+76,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,36.0
+77,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,70.0
+78,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,33.0
+79,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,,B,M,34.0
+80,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,F,50.0
+81,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,62.0
+82,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,49.0
+83,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,36.0
+84,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,70.0
+85,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,33.0
+86,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,M,22.0,B,M,34.0
+87,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,F,50.0
+88,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,62.0
+89,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,49.0
+90,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,36.0
+91,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,70.0
+92,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,33.0
+93,73896111,TNMPD0000,Murder and Nonnegligent Manslaughter,83676160,Residence/Home,Handgun,2014-01-09 00:00:00,B,F,26.0,B,M,34.0
+94,74049011,TNMPD0000,Murder and Nonnegligent Manslaughter,81715856,Residence/Home,Handgun,2014-04-23 00:00:00,B,M,54.0,B,M,47.0
+95,74995541,TNMPD0000,Murder and Nonnegligent Manslaughter,82089175,Abandoned/Condemned Structure,Blunt Object,2014-10-07 00:00:00,U,U,,B,F,28.0
+96,74253066,TNMPD0000,Murder and Nonnegligent Manslaughter,81926844,Grocery/Supermarket,Firearm,2014-08-14 00:00:00,B,M,24.0,B,M,50.0
+97,74253066,TNMPD0000,Murder and Nonnegligent Manslaughter,81926844,Grocery/Supermarket,Firearm,2014-08-14 00:00:00,B,M,24.0,B,M,48.0
+98,73938480,TNMPD0000,Murder and Nonnegligent Manslaughter,83731437,Highway/Road/Ally,Handgun,2014-02-10 00:00:00,,,,B,M,22.0
+99,73938480,TNMPD0000,Murder and Nonnegligent Manslaughter,83731437,Highway/Road/Ally,Handgun,2014-02-10 00:00:00,,,,B,F,21.0
+100,73938480,TNMPD0000,Murder and Nonnegligent Manslaughter,83731437,Highway/Road/Ally,Handgun,2014-02-10 00:00:00,,,,B,F,22.0
+101,73938480,TNMPD0000,Murder and Nonnegligent Manslaughter,83731437,Highway/Road/Ally,Handgun,2014-02-10 00:00:00,,,,B,M,27.0
+102,74092408,TNMPD0000,Murder and Nonnegligent Manslaughter,81768147,Other/Unknown,Other,2014-05-18 00:00:00,U,U,,B,M,21.0
+103,75030201,TNMPD0000,Murder and Nonnegligent Manslaughter,82132919,Residence/Home,Handgun,2014-10-29 00:00:00,,,,B,M,60.0
+104,74193531,TNMPD0000,Murder and Nonnegligent Manslaughter,81868902,Residence/Home,Other,2014-07-13 00:00:00,B,M,20.0,B,M,19.0
+105,73937573,TNMPD0000,Murder and Nonnegligent Manslaughter,83721291,Highway/Road/Ally,Other,2014-02-09 00:00:00,U,U,,B,M,21.0
+106,73937573,TNMPD0000,Murder and Nonnegligent Manslaughter,83721291,Highway/Road/Ally,Other,2014-02-09 00:00:00,U,U,,B,M,23.0
+107,74129339,TNMPD0000,Murder and Nonnegligent Manslaughter,81813296,Residence/Home,Other,2014-06-06 00:00:00,B,M,21.0,B,M,39.0
+108,74129339,TNMPD0000,Murder and Nonnegligent Manslaughter,81813296,Residence/Home,Other,2014-06-06 00:00:00,B,M,20.0,B,M,39.0
+109,75048186,TNMPD0000,Murder and Nonnegligent Manslaughter,82155776,Residence/Home,Handgun,2014-11-10 00:00:00,B,M,,B,F,63.0
+110,75048186,TNMPD0000,Murder and Nonnegligent Manslaughter,82155776,Residence/Home,Handgun,2014-11-10 00:00:00,B,M,,B,M,24.0
+111,75048186,TNMPD0000,Murder and Nonnegligent Manslaughter,82155776,Residence/Home,Handgun,2014-11-10 00:00:00,B,M,,B,M,54.0
+112,74184292,TNMPD0000,Murder and Nonnegligent Manslaughter,81867595,Parking Lot/Garage,Handgun,2014-07-08 00:00:00,B,F,21.0,B,M,28.0
+113,74184292,TNMPD0000,Murder and Nonnegligent Manslaughter,81867595,Parking Lot/Garage,Handgun,2014-07-08 00:00:00,B,M,34.0,B,M,28.0
+114,74184292,TNMPD0000,Murder and Nonnegligent Manslaughter,81867595,Parking Lot/Garage,Handgun,2014-07-08 00:00:00,B,M,31.0,B,M,28.0
+115,74184292,TNMPD0000,Murder and Nonnegligent Manslaughter,81867595,Parking Lot/Garage,Handgun,2014-07-08 00:00:00,B,F,,B,M,28.0
+116,74234050,TNMPD0000,Murder and Nonnegligent Manslaughter,81910627,Parking Lot/Garage,Other,2014-08-04 00:00:00,B,M,,B,M,41.0
+117,74234050,TNMPD0000,Murder and Nonnegligent Manslaughter,81910627,Parking Lot/Garage,Other,2014-08-04 00:00:00,B,M,28.0,B,M,41.0
+118,74221231,TNMPD0000,Murder and Nonnegligent Manslaughter,81901458,Specialty Store,Handgun,2014-07-28 00:00:00,B,M,33.0,B,M,27.0
+119,73975547,TNMPD0000,Murder and Nonnegligent Manslaughter,81646007,Residence/Home,Other,2014-03-09 00:00:00,B,M,17.0,B,M,37.0
+120,73975547,TNMPD0000,Murder and Nonnegligent Manslaughter,81646007,Residence/Home,Other,2014-03-09 00:00:00,B,F,21.0,B,M,37.0
+121,74034820,TNMPD0000,Murder and Nonnegligent Manslaughter,81696901,Highway/Road/Ally,Handgun,2014-04-15 00:00:00,B,M,,B,M,29.0
+122,75113617,TNMPD0000,Murder and Nonnegligent Manslaughter,82230247,Parking Lot/Garage,Handgun,2014-12-25 00:00:00,U,U,,B,M,33.0
+123,74245880,TNMPD0000,Murder and Nonnegligent Manslaughter,81925772,Highway/Road/Ally,Handgun,2014-08-10 00:00:00,,,,B,M,28.0
+124,74217424,TNMPD0000,Murder and Nonnegligent Manslaughter,81893809,Residence/Home,Firearm,2014-07-25 00:00:00,B,M,,B,M,19.0
+125,74981846,TNMPD0000,Murder and Nonnegligent Manslaughter,82071724,Residence/Home,Handgun,2014-09-28 00:00:00,B,M,20.0,B,M,23.0
+126,74981846,TNMPD0000,Murder and Nonnegligent Manslaughter,82071724,Residence/Home,Handgun,2014-09-28 00:00:00,B,M,20.0,B,M,24.0
+127,73968516,TNMPD0000,Murder and Nonnegligent Manslaughter,81629450,Residence/Home,Handgun,2014-03-05 00:00:00,B,M,17.0,B,M,17.0
+128,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,W,M,18.0,W,M,26.0
+129,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,W,M,18.0,W,M,31.0
+130,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,B,M,17.0,W,M,26.0
+131,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,B,M,17.0,W,M,31.0
+132,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,B,M,18.0,W,M,26.0
+133,74958107,TNMPD0000,Murder and Nonnegligent Manslaughter,81991489,Residence/Home,Handgun,2014-09-13 00:00:00,B,M,18.0,W,M,31.0
+134,74118388,TNMPD0000,Murder and Nonnegligent Manslaughter,81798619,Residence/Home,Knife/Cutting Instrument,2014-05-31 00:00:00,,,,B,M,62.0
+135,75034473,TNMPD0000,Murder and Nonnegligent Manslaughter,82137221,Drug Store/Dr. s Office/Hospital,Firearm,2014-10-31 00:00:00,U,U,,B,M,21.0
+136,74229566,TNMPD0000,Murder and Nonnegligent Manslaughter,81905341,Residence/Home,Unknown,2014-08-01 00:00:00,,,,B,F,39.0
+137,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,22.0,B,M,42.0
+138,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,22.0,B,M,66.0
+139,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,20.0,B,M,42.0
+140,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,20.0,B,M,66.0
+141,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,21.0,B,M,42.0
+142,74994727,TNMPD0000,Murder and Nonnegligent Manslaughter,82082553,Residence/Home,Handgun,2014-10-06 00:00:00,B,M,21.0,B,M,66.0
+143,75074707,TNMPD0000,Murder and Nonnegligent Manslaughter,82179096,Residence/Home,Handgun,2014-11-28 00:00:00,B,M,,B,M,26.0
+144,75074707,TNMPD0000,Murder and Nonnegligent Manslaughter,82179096,Residence/Home,Handgun,2014-11-28 00:00:00,B,M,,B,F,27.0
+145,75074707,TNMPD0000,Murder and Nonnegligent Manslaughter,82179096,Residence/Home,Handgun,2014-11-28 00:00:00,B,U,,B,M,26.0
+146,75074707,TNMPD0000,Murder and Nonnegligent Manslaughter,82179096,Residence/Home,Handgun,2014-11-28 00:00:00,B,U,,B,F,27.0
+147,74958053,TNMPD0000,Murder and Nonnegligent Manslaughter,81978508,Residence/Home,Knife/Cutting Instrument,2014-09-13 00:00:00,B,M,36.0,B,M,48.0
+148,74015566,TNMPD0000,Murder and Nonnegligent Manslaughter,81677079,Highway/Road/Ally,Other,2014-04-04 00:00:00,,,,B,M,19.0
+149,74015566,TNMPD0000,Murder and Nonnegligent Manslaughter,81677079,Highway/Road/Ally,Other,2014-04-04 00:00:00,,,,B,M,26.0
+150,74015566,TNMPD0000,Murder and Nonnegligent Manslaughter,81677079,Highway/Road/Ally,Other,2014-04-04 00:00:00,,,,B,M,25.0
+151,74048052,TNMPD0000,Murder and Nonnegligent Manslaughter,81715531,Highway/Road/Ally,Firearm,2014-04-23 00:00:00,U,U,30.0,W,M,45.0
+152,74137687,TNMPD0000,Murder and Nonnegligent Manslaughter,81809374,Highway/Road/Ally,Rifle,2014-06-11 00:00:00,,,,B,M,20.0
+153,74137687,TNMPD0000,Murder and Nonnegligent Manslaughter,81809374,Highway/Road/Ally,Rifle,2014-06-11 00:00:00,,,,B,M,57.0
+154,74137687,TNMPD0000,Murder and Nonnegligent Manslaughter,81809374,Highway/Road/Ally,Rifle,2014-06-11 00:00:00,,,,B,M,32.0
+155,75036956,TNMPD0000,Murder and Nonnegligent Manslaughter,82133288,Parking Lot/Garage,Handgun,2014-11-02 00:00:00,B,M,39.0,B,M,32.0
+156,74048939,TNMPD0000,Murder and Nonnegligent Manslaughter,81725184,Field/Woods,Firearm,2014-04-23 00:00:00,U,U,35.0,W,M,23.0
+157,74107634,TNMPD0000,Murder and Nonnegligent Manslaughter,81785055,Residence/Home,Handgun,2014-05-26 00:00:00,B,M,28.0,B,M,22.0
+158,74107634,TNMPD0000,Murder and Nonnegligent Manslaughter,81785055,Residence/Home,Handgun,2014-05-26 00:00:00,B,M,26.0,B,M,22.0
+159,74961430,TNMPD0000,Murder and Nonnegligent Manslaughter,81988303,Other/Unknown,Handgun,2014-09-16 00:00:00,B,M,30.0,B,M,39.0
+160,74255755,TNMPD0000,Murder and Nonnegligent Manslaughter,81926895,Residence/Home,Rifle,2014-08-15 00:00:00,W,M,42.0,W,F,6.0
+161,74255755,TNMPD0000,Murder and Nonnegligent Manslaughter,81926895,Residence/Home,Rifle,2014-08-15 00:00:00,W,M,42.0,W,M,24.0
+162,75016407,TNMPD0000,Murder and Nonnegligent Manslaughter,82117484,Parking Lot/Garage,Other,2014-10-20 00:00:00,B,M,45.0,W,M,28.0
+163,74107577,TNMPD0000,Murder and Nonnegligent Manslaughter,81785046,Residence/Home,Knife/Cutting Instrument,2014-05-26 00:00:00,B,F,36.0,B,M,23.0
+164,74936073,TNMPD0000,Murder and Nonnegligent Manslaughter,81966684,Commercial/Office Building,Handgun,2014-08-31 00:00:00,,,,B,M,32.0
+165,73969429,TNMPD0000,Murder and Nonnegligent Manslaughter,81635197,Highway/Road/Ally,Other,2014-03-06 00:00:00,B,M,26.0,B,M,25.0
+166,75035339,TNMPD0000,Murder and Nonnegligent Manslaughter,82133789,Field/Woods,Firearm,2014-11-01 00:00:00,B,F,24.0,B,M,57.0
+167,75035339,TNMPD0000,Murder and Nonnegligent Manslaughter,82133789,Field/Woods,Firearm,2014-11-01 00:00:00,B,M,23.0,B,M,57.0
+168,74969901,TNMPD0000,Murder and Nonnegligent Manslaughter,82060728,Parking Lot/Garage,Handgun,2014-09-21 00:00:00,,,,W,M,28.0
+169,74969901,TNMPD0000,Murder and Nonnegligent Manslaughter,82060728,Parking Lot/Garage,Handgun,2014-09-21 00:00:00,,,,W,M,23.0
+170,74250302,TNMPD0000,Murder and Nonnegligent Manslaughter,81932803,Parking Lot/Garage,Firearm,2014-08-13 00:00:00,B,M,24.0,B,M,20.0
+171,73966754,TNMPD0000,Murder and Nonnegligent Manslaughter,81629416,Parking Lot/Garage,Handgun,2014-03-04 00:00:00,U,U,,B,M,57.0
+172,75073873,TNMPD0000,Murder and Nonnegligent Manslaughter,82173985,Residence/Home,Handgun,2014-11-28 00:00:00,,,,W,M,40.0
+173,75116235,TNMPD0000,Murder and Nonnegligent Manslaughter,82235021,Residence/Home,Handgun,2014-12-26 00:00:00,,,,B,M,19.0
+174,74969826,TNMPD0000,Murder and Nonnegligent Manslaughter,82054135,Residence/Home,Handgun,2014-09-20 00:00:00,U,M,,B,F,49.0
+175,74969826,TNMPD0000,Murder and Nonnegligent Manslaughter,82054135,Residence/Home,Handgun,2014-09-20 00:00:00,U,M,,B,M,32.0
+176,74969826,TNMPD0000,Murder and Nonnegligent Manslaughter,82054135,Residence/Home,Handgun,2014-09-20 00:00:00,U,M,,B,M,81.0
+177,74070893,TNMPD0000,Murder and Nonnegligent Manslaughter,81739492,Air/Bus/Train Terminal,Personal Weapons,2014-05-06 00:00:00,B,M,49.0,B,M,68.0
+178,75111817,TNMPD0000,Murder and Nonnegligent Manslaughter,82220468,Residence/Home,Rifle,2014-12-23 00:00:00,B,M,,B,M,33.0
+179,74952273,TNMPD0000,Murder and Nonnegligent Manslaughter,81977030,Residence/Home,Handgun,2014-09-08 00:00:00,,,,B,M,44.0
+180,74938651,TNMPD0000,Murder and Nonnegligent Manslaughter,81966743,Daycare Facility,Handgun,2014-09-02 00:00:00,B,M,34.0,B,F,34.0
+181,75051795,TNMPD0000,Murder and Nonnegligent Manslaughter,82153177,Convenience Store,Handgun,2014-11-12 00:00:00,U,U,30.0,B,M,34.0
+182,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,19.0,B,M,22.0
+183,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,19.0,B,F,22.0
+184,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,19.0,B,M,2.0
+185,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,19.0,B,M,17.0
+186,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,22.0,B,M,22.0
+187,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,22.0,B,F,22.0
+188,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,22.0,B,M,2.0
+189,73936880,TNMPD0000,Murder and Nonnegligent Manslaughter,83720266,Other/Unknown,Handgun,2014-02-08 00:00:00,B,M,22.0,B,M,17.0
+190,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,33.0
+191,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,28.0
+192,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,22.0
+193,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,20.0
+194,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,23.0
+195,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,27.0
+196,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,24.0
+197,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,25.0
+198,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,17.0,W,M,29.0
+199,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,33.0
+200,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,28.0
+201,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,22.0
+202,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,20.0
+203,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,23.0
+204,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,27.0
+205,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,24.0
+206,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,25.0
+207,74992090,TNMPD0000,Murder and Nonnegligent Manslaughter,82089099,Residence/Home,Handgun,2014-10-04 00:00:00,B,M,20.0,W,M,29.0
+208,74964822,TNMPD0000,Murder and Nonnegligent Manslaughter,82052525,Residence/Home,Personal Weapons,2014-09-18 00:00:00,B,M,21.0,B,M,51.0
+209,74258312,TNMPD0000,Murder and Nonnegligent Manslaughter,81941510,Parking Lot/Garage,Handgun,2014-08-16 00:00:00,B,M,21.0,B,F,38.0
+210,73964089,TNMPD0000,Murder and Nonnegligent Manslaughter,81623019,Residence/Home,Handgun,2014-03-01 00:00:00,B,M,24.0,B,M,24.0
+211,74252134,TNMPD0000,Murder and Nonnegligent Manslaughter,81928906,Residence/Home,Shotgun,2014-08-13 00:00:00,B,M,39.0,B,M,31.0
+212,74252134,TNMPD0000,Murder and Nonnegligent Manslaughter,81928906,Residence/Home,Shotgun,2014-08-13 00:00:00,B,M,39.0,B,M,26.0
+213,73964014,TNMPD0000,Murder and Nonnegligent Manslaughter,81627387,Bar/Nightclub,Handgun,2014-03-01 00:00:00,U,U,,B,M,20.0
+214,74212080,TNMPD0000,Murder and Nonnegligent Manslaughter,81891683,Highway/Road/Ally,Firearm,2014-07-23 00:00:00,B,M,28.0,B,M,23.0
+215,74115652,TNMPD0000,Murder and Nonnegligent Manslaughter,81797233,Convenience Store,Other,2014-05-30 00:00:00,B,M,,B,M,29.0
+216,75023234,TNMPD0000,Murder and Nonnegligent Manslaughter,82122938,Residence/Home,Rifle,2014-10-24 00:00:00,B,M,28.0,B,M,41.0
+217,75023234,TNMPD0000,Murder and Nonnegligent Manslaughter,82122938,Residence/Home,Rifle,2014-10-24 00:00:00,B,M,28.0,B,M,29.0
+218,75023234,TNMPD0000,Murder and Nonnegligent Manslaughter,82122938,Residence/Home,Rifle,2014-10-24 00:00:00,B,M,,B,M,41.0
+219,75023234,TNMPD0000,Murder and Nonnegligent Manslaughter,82122938,Residence/Home,Rifle,2014-10-24 00:00:00,B,M,,B,M,29.0
+220,74204667,TNMPD0000,Murder and Nonnegligent Manslaughter,81878994,Convenience Store,Handgun,2014-07-19 00:00:00,B,M,38.0,W,M,56.0
+221,74204667,TNMPD0000,Murder and Nonnegligent Manslaughter,81878994,Convenience Store,Handgun,2014-07-19 00:00:00,B,M,39.0,W,M,56.0
+222,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,25.0,B,F,23.0
+223,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,25.0,B,M,26.0
+224,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,18.0,B,F,23.0
+225,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,18.0,B,M,26.0
+226,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,21.0,B,F,23.0
+227,74049882,TNMPD0000,Murder and Nonnegligent Manslaughter,81714405,Residence/Home,Other,2014-04-24 00:00:00,B,M,21.0,B,M,26.0
+228,74985294,TNMPD0000,Murder and Nonnegligent Manslaughter,82072462,Other/Unknown,Firearm,2014-09-30 00:00:00,B,M,,B,M,34.0
+229,74985294,TNMPD0000,Murder and Nonnegligent Manslaughter,82072462,Other/Unknown,Firearm,2014-09-30 00:00:00,B,M,,B,M,52.0
+230,75075703,TNMPD0000,Murder and Nonnegligent Manslaughter,82186317,Highway/Road/Ally,Firearm,2014-11-30 00:00:00,,,,B,M,28.0
+231,75075703,TNMPD0000,Murder and Nonnegligent Manslaughter,82186317,Highway/Road/Ally,Firearm,2014-11-30 00:00:00,,,,B,M,26.0
+232,74945480,TNMPD0000,Murder and Nonnegligent Manslaughter,81974580,Parking Lot/Garage,Firearm,2014-09-05 00:00:00,B,M,21.0,W,M,41.0
+233,74103158,TNMPD0000,Murder and Nonnegligent Manslaughter,81775470,Highway/Road/Ally,Handgun,2014-05-23 00:00:00,B,M,43.0,B,M,47.0
+234,74103158,TNMPD0000,Murder and Nonnegligent Manslaughter,81775470,Highway/Road/Ally,Handgun,2014-05-23 00:00:00,B,M,43.0,B,M,32.0
+235,74051575,TNMPD0000,Murder and Nonnegligent Manslaughter,81721914,Bar/Nightclub,Firearm,2014-04-25 00:00:00,B,M,35.0,B,M,26.0
+236,74051575,TNMPD0000,Murder and Nonnegligent Manslaughter,81721914,Bar/Nightclub,Firearm,2014-04-25 00:00:00,B,M,35.0,B,M,52.0
+237,74010235,TNMPD0000,Murder and Nonnegligent Manslaughter,81666565,Highway/Road/Ally,Handgun,2014-03-31 00:00:00,U,U,,B,M,23.0
+238,74010235,TNMPD0000,Murder and Nonnegligent Manslaughter,81666565,Highway/Road/Ally,Handgun,2014-03-31 00:00:00,U,U,,B,M,22.0
+239,74010235,TNMPD0000,Murder and Nonnegligent Manslaughter,81666565,Highway/Road/Ally,Handgun,2014-03-31 00:00:00,U,U,,B,M,20.0
+240,74010235,TNMPD0000,Murder and Nonnegligent Manslaughter,81666565,Highway/Road/Ally,Handgun,2014-03-31 00:00:00,U,U,,B,M,28.0
+241,74053319,TNMPD0000,Murder and Nonnegligent Manslaughter,81721957,Residence/Home,Knife/Cutting Instrument,2014-04-25 00:00:00,B,M,63.0,B,M,31.0
+242,74948870,TNMPD0000,Murder and Nonnegligent Manslaughter,81973014,Residence/Home,Handgun,2014-09-08 00:00:00,B,M,19.0,B,M,14.0
+243,74948870,TNMPD0000,Murder and Nonnegligent Manslaughter,81973014,Residence/Home,Handgun,2014-09-08 00:00:00,B,M,19.0,B,F,7.0
+244,74948870,TNMPD0000,Murder and Nonnegligent Manslaughter,81973014,Residence/Home,Handgun,2014-09-08 00:00:00,B,M,19.0,B,F,10.0
+245,74948870,TNMPD0000,Murder and Nonnegligent Manslaughter,81973014,Residence/Home,Handgun,2014-09-08 00:00:00,B,M,19.0,B,M,16.0
+246,74914573,TNMPD0000,Murder and Nonnegligent Manslaughter,81936980,Commercial/Office Building,Other,2014-08-19 00:00:00,,,,B,M,51.0
+247,74180570,TNMPD0000,Murder and Nonnegligent Manslaughter,81856164,Residence/Home,Handgun,2014-07-05 00:00:00,B,M,21.0,B,M,42.0
+248,74180570,TNMPD0000,Murder and Nonnegligent Manslaughter,81856164,Residence/Home,Handgun,2014-07-05 00:00:00,B,M,21.0,B,M,28.0
+249,73952639,TNMPD0000,Murder and Nonnegligent Manslaughter,81618742,Residence/Home,Handgun,2014-02-21 00:00:00,B,M,34.0,B,F,34.0
+250,73910550,TNMPD0000,Murder and Nonnegligent Manslaughter,83703850,Residence/Home,Handgun,2014-01-20 00:00:00,B,M,33.0,B,M,25.0
+251,73910550,TNMPD0000,Murder and Nonnegligent Manslaughter,83703850,Residence/Home,Handgun,2014-01-20 00:00:00,B,M,33.0,B,M,61.0
+252,73988857,TNMPD0000,Murder and Nonnegligent Manslaughter,81652492,Residence/Home,Handgun,2014-03-17 00:00:00,B,M,23.0,B,F,45.0
+253,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,F,38.0
+254,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,W,F,30.0
+255,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,M,1.0
+256,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,M,4.0
+257,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,F,16.0
+258,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,M,15.0
+259,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,F,6.0
+260,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,M,18.0
+261,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,21.0,B,F,27.0
+262,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,F,38.0
+263,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,W,F,30.0
+264,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,M,1.0
+265,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,M,4.0
+266,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,F,16.0
+267,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,M,15.0
+268,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,F,6.0
+269,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,M,18.0
+270,74921507,TNMPD0000,Murder and Nonnegligent Manslaughter,81951363,Residence/Home,Rifle,2014-08-22 00:00:00,B,M,22.0,B,F,27.0
+271,75086115,TNMPD0000,Murder and Nonnegligent Manslaughter,82198944,Highway/Road/Ally,Handgun,2014-12-06 00:00:00,B,M,,W,M,31.0
+272,75109978,TNMPD0000,Murder and Nonnegligent Manslaughter,82219122,Convenience Store,Firearm,2014-12-22 00:00:00,,,,B,M,44.0
+273,74144914,TNMPD0000,Murder and Nonnegligent Manslaughter,81823264,Highway/Road/Ally,Handgun,2014-06-16 00:00:00,B,M,,B,M,50.0
+274,74129401,TNMPD0000,Murder and Nonnegligent Manslaughter,81808439,Highway/Road/Ally,Handgun,2014-06-06 00:00:00,,,,B,M,23.0
+275,74234920,TNMPD0000,Murder and Nonnegligent Manslaughter,81915647,Convenience Store,Blunt Object,2014-07-26 00:00:00,B,M,56.0,W,M,57.0
+276,74234920,TNMPD0000,Murder and Nonnegligent Manslaughter,81915647,Convenience Store,Blunt Object,2014-07-26 00:00:00,B,M,56.0,W,M,61.0
+277,74029534,TNMPD0000,Murder and Nonnegligent Manslaughter,81697233,Residence/Home,Motor Vehicle,2014-04-12 00:00:00,B,F,33.0,B,M,37.0
+278,73939429,TNMPD0000,Murder and Nonnegligent Manslaughter,83728358,Residence/Home,Handgun,2014-02-11 00:00:00,B,M,29.0,B,M,48.0
+279,73939429,TNMPD0000,Murder and Nonnegligent Manslaughter,83728358,Residence/Home,Handgun,2014-02-11 00:00:00,B,M,29.0,B,M,31.0
+280,73910537,TNMPD0000,Murder and Nonnegligent Manslaughter,83693727,Residence/Home,Other,2014-01-20 00:00:00,B,M,22.0,B,M,32.0
+281,74154749,TNMPD0000,Murder and Nonnegligent Manslaughter,81840887,Residence/Home,Handgun,2014-06-21 00:00:00,U,U,,B,M,39.0
+282,74953172,TNMPD0000,Murder and Nonnegligent Manslaughter,81977660,Residence/Home,Personal Weapons,2014-08-28 00:00:00,B,F,52.0,B,M,63.0
